@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Learn Alphabets",
-"productVersion": "1.0",
+"productName": "Montessori-Alphabets",
+"productVersion": "0.1",
 "dataUrl": "Learn-Alphabets.data.unityweb",
 "wasmCodeUrl": "Learn-Alphabets.wasm.code.unityweb",
 "wasmFrameworkUrl": "Learn-Alphabets.wasm.framework.unityweb",
@@ -9,6 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.3.12f1"
