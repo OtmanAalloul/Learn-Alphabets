@@ -1,0 +1,17 @@
+{
+"companyName": "AmaachAalloul",
+"productName": "ArabicAlphabetMontessori.unity",
+"productVersion": "3.2",
+"dataUrl": "ArabicAlphabetMontessoriV3.2.web.data.unityweb",
+"wasmCodeUrl": "ArabicAlphabetMontessoriV3.2.web.wasm.code.unityweb",
+"wasmFrameworkUrl": "ArabicAlphabetMontessoriV3.2.web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ArabicAlphabetMontessoriV3.2.web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
